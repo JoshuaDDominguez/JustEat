@@ -1,0 +1,11 @@
+Kebab * 4.5
+Durum * 5.5
+Lahmacun * 6.5
+Falafel * 6.0
+Arroz * 2.5
+Snacks * 3.0
+Nuggets * 3.5
+7UP * 1.6
+Nestea * 1.5
+Agua * 1.0
+Cerveza * 2.5

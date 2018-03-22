@@ -1,0 +1,10 @@
+Hamburguesa * 2.9
+Bocata * 3.5
+Sandwich * 3.0
+Menu * 5.6
+Ensalada * 4.9
+Patatas * 1.9
+Perrito * 2.5
+Nestea * 1.6
+Agua * 1.0
+Kas * 1.5
